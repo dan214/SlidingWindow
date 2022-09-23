@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_workspace\\dan214\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj": {}
+  },
+  "projects": {
+    "C:\\_workspace\\dan214\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_workspace\\dan214\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
+        "projectName": "SlidingWindow",
+        "projectPath": "C:\\_workspace\\dan214\\SlidingWindow\\SlidingWindow\\SlidingWindow.csproj",
+        "packagesPath": "C:\\Users\\v-dairun\\.nuget\\packages\\",
+        "outputPath": "C:\\_workspace\\dan214\\SlidingWindow\\SlidingWindow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-dairun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/CoreXTMirror/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/MSNugetMirror/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/ManualMirror/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/NugetMirror/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/OSS/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/Official/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/DefaultCollection/_apis/packaging/Toolset/nuget/index.json": {},
+          "https://msazure.pkgs.visualstudio.com/_packaging/Bond/nuget/v3/index.json": {},
+          "https://msblox.pkgs.visualstudio.com/_packaging/AzureGenevaMonitoring/nuget/v3/index.json": {},
+          "https://mscosmos.pkgs.visualstudio.com/_packaging/CosmosProd/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
